@@ -17,7 +17,7 @@ REM  QBFC Project Options End
 @ECHO ON
 @echo off
 set md5ver=1.06
-set md5pwd=snowinaustralia2009
+set md5pwd=yourpassword
 IF "%~1" == "" (
 GOTO md5info
 ) else (
